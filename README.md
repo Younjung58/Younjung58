@@ -1,4 +1,6 @@
 ## 안녕하세요. 저는 '박연정'입니다! 👋
+<img alt="Static Badge" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Younjung's%20Github&section=header&reversal=false&textBg=false&fontColor=000010&fontSize=65&fontAlign=50&fontAlignY=44&animation=fadeIn&rotate=0&stroke=000001&strokeWidth=3&desc=ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ%20%20%20%20%20%20ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ&descSize=15&descAlignY=70&descAlign=30">
+
 Hello, My name is Younjung ✌(-‿-)✌
 - 생년월일: 2000.05.08
 - 취미: 테니스🎾, 풋살⚽, 드럼🥁
